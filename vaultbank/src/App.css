@@ -443,6 +443,7 @@ a:hover{ opacity:1; }
   background:rgba(0,0,0,.16);
   border-top:1px solid rgba(255,255,255,.06);
   border-bottom:1px solid rgba(255,255,255,.06);
+  border-radius: 10px;
 }
 .sectionInner{ padding:0 var(--pad); }
 
